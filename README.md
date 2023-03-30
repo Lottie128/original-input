@@ -55,4 +55,4 @@ print(f"You entered {employee_info}, which is of type {type(employee_info)}")
 In each of the examples above, original_input() is called with a prompt to get user input. The returned value is then printed along with its type.
 License
 
-`original_input` is released under the MIT License. See [LICENSE](https://pages.github.com/) for details.
+`original_input` is released under the MIT License. See [LICENSE]([https://pages.github.com/](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) for details.
